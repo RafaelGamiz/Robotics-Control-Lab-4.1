@@ -1,0 +1,4 @@
+Invoking command in '/home/jos/Escritorio/roarm_description/build/roarm_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/jos/Escritorio/roarm_description/build/roarm_description -- -j8 -l8
+Invoked command in '/home/jos/Escritorio/roarm_description/build/roarm_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/jos/Escritorio/roarm_description/build/roarm_description -- -j8 -l8
+Invoking command in '/home/jos/Escritorio/roarm_description/build/roarm_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/jos/Escritorio/roarm_description/build/roarm_description
+Invoked command in '/home/jos/Escritorio/roarm_description/build/roarm_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/jos/Escritorio/roarm_description/build/roarm_description

@@ -1,0 +1,40 @@
+[0.015s] Invoking command in '/home/jos/Escritorio/roarm_description/build/roarm_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/jos/Escritorio/roarm_description/build/roarm_description -- -j8 -l8
+[0.075s] Invoked command in '/home/jos/Escritorio/roarm_description/build/roarm_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/jos/Escritorio/roarm_description/build/roarm_description -- -j8 -l8
+[0.089s] Invoking command in '/home/jos/Escritorio/roarm_description/build/roarm_description': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/jos/Escritorio/roarm_description/build/roarm_description
+[0.099s] -- Install configuration: ""
+[0.100s] -- Up-to-date: /home/jos/Escritorio/roarm_description/install/roarm_description/share/roarm_description/config
+[0.100s] -- Up-to-date: /home/jos/Escritorio/roarm_description/install/roarm_description/share/roarm_description/config/controllers.yaml
+[0.100s] -- Up-to-date: /home/jos/Escritorio/roarm_description/install/roarm_description/share/roarm_description/launch
+[0.100s] -- Up-to-date: /home/jos/Escritorio/roarm_description/install/roarm_description/share/roarm_description/launch/roarm_gazebo.launch.py
+[0.100s] -- Up-to-date: /home/jos/Escritorio/roarm_description/install/roarm_description/share/roarm_description/meshes
+[0.100s] -- Up-to-date: /home/jos/Escritorio/roarm_description/install/roarm_description/share/roarm_description/meshes/base_so101_v2.stl
+[0.101s] -- Up-to-date: /home/jos/Escritorio/roarm_description/install/roarm_description/share/roarm_description/meshes/motor_holder_so101_wrist_v1.stl
+[0.101s] -- Up-to-date: /home/jos/Escritorio/roarm_description/install/roarm_description/share/roarm_description/meshes/motor_holder_so101_base_v1.stl
+[0.101s] -- Up-to-date: /home/jos/Escritorio/roarm_description/install/roarm_description/share/roarm_description/meshes/sts3215_03a_v1.stl
+[0.101s] -- Up-to-date: /home/jos/Escritorio/roarm_description/install/roarm_description/share/roarm_description/meshes/sts3215_03a_no_horn_v1.stl
+[0.101s] -- Up-to-date: /home/jos/Escritorio/roarm_description/install/roarm_description/share/roarm_description/meshes/rotation_pitch_so101_v1.stl
+[0.101s] -- Up-to-date: /home/jos/Escritorio/roarm_description/install/roarm_description/share/roarm_description/meshes/waveshare_mounting_plate_so101_v2.stl
+[0.101s] -- Up-to-date: /home/jos/Escritorio/roarm_description/install/roarm_description/share/roarm_description/meshes/upper_arm_so101_v1.stl
+[0.101s] -- Up-to-date: /home/jos/Escritorio/roarm_description/install/roarm_description/share/roarm_description/meshes/base_motor_holder_so101_v1.stl
+[0.101s] -- Up-to-date: /home/jos/Escritorio/roarm_description/install/roarm_description/share/roarm_description/meshes/moving_jaw_so101_v1.stl
+[0.101s] -- Up-to-date: /home/jos/Escritorio/roarm_description/install/roarm_description/share/roarm_description/meshes/wrist_roll_follower_so101_v1.stl
+[0.101s] -- Up-to-date: /home/jos/Escritorio/roarm_description/install/roarm_description/share/roarm_description/meshes/under_arm_so101_v1.stl
+[0.101s] -- Up-to-date: /home/jos/Escritorio/roarm_description/install/roarm_description/share/roarm_description/meshes/wrist_roll_pitch_so101_v2.stl
+[0.101s] -- Up-to-date: /home/jos/Escritorio/roarm_description/install/roarm_description/share/roarm_description/urdf
+[0.101s] -- Up-to-date: /home/jos/Escritorio/roarm_description/install/roarm_description/share/roarm_description/urdf/roarm.urdf
+[0.101s] -- Up-to-date: /home/jos/Escritorio/roarm_description/install/roarm_description/share/ament_index/resource_index/package_run_dependencies/roarm_description
+[0.101s] -- Up-to-date: /home/jos/Escritorio/roarm_description/install/roarm_description/share/ament_index/resource_index/parent_prefix_path/roarm_description
+[0.101s] -- Up-to-date: /home/jos/Escritorio/roarm_description/install/roarm_description/share/roarm_description/environment/ament_prefix_path.sh
+[0.101s] -- Up-to-date: /home/jos/Escritorio/roarm_description/install/roarm_description/share/roarm_description/environment/ament_prefix_path.dsv
+[0.101s] -- Up-to-date: /home/jos/Escritorio/roarm_description/install/roarm_description/share/roarm_description/environment/path.sh
+[0.102s] -- Up-to-date: /home/jos/Escritorio/roarm_description/install/roarm_description/share/roarm_description/environment/path.dsv
+[0.102s] -- Up-to-date: /home/jos/Escritorio/roarm_description/install/roarm_description/share/roarm_description/local_setup.bash
+[0.102s] -- Up-to-date: /home/jos/Escritorio/roarm_description/install/roarm_description/share/roarm_description/local_setup.sh
+[0.102s] -- Up-to-date: /home/jos/Escritorio/roarm_description/install/roarm_description/share/roarm_description/local_setup.zsh
+[0.102s] -- Up-to-date: /home/jos/Escritorio/roarm_description/install/roarm_description/share/roarm_description/local_setup.dsv
+[0.102s] -- Installing: /home/jos/Escritorio/roarm_description/install/roarm_description/share/roarm_description/package.dsv
+[0.102s] -- Up-to-date: /home/jos/Escritorio/roarm_description/install/roarm_description/share/ament_index/resource_index/packages/roarm_description
+[0.102s] -- Up-to-date: /home/jos/Escritorio/roarm_description/install/roarm_description/share/roarm_description/cmake/roarm_descriptionConfig.cmake
+[0.102s] -- Up-to-date: /home/jos/Escritorio/roarm_description/install/roarm_description/share/roarm_description/cmake/roarm_descriptionConfig-version.cmake
+[0.102s] -- Up-to-date: /home/jos/Escritorio/roarm_description/install/roarm_description/share/roarm_description/package.xml
+[0.104s] Invoked command in '/home/jos/Escritorio/roarm_description/build/roarm_description' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/jos/Escritorio/roarm_description/build/roarm_description

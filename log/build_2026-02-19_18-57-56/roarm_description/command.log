@@ -1,0 +1,2 @@
+Invoking command in '/home/jos/Escritorio/roarm_description/build/roarm_description': /usr/bin/cmake /home/jos/Escritorio/roarm_description -DCMAKE_INSTALL_PREFIX=/home/jos/Escritorio/roarm_description/install/roarm_description
+Invoked command in '/home/jos/Escritorio/roarm_description/build/roarm_description' returned '1': /usr/bin/cmake /home/jos/Escritorio/roarm_description -DCMAKE_INSTALL_PREFIX=/home/jos/Escritorio/roarm_description/install/roarm_description
