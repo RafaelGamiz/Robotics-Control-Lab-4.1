@@ -1,0 +1,96 @@
+<?xml version="1.0"?>
+
+
+<robot name="roarm">
+
+
+
+  <link name="world"/>
+
+
+
+  <joint name="fixed" type="fixed">
+
+
+
+    <parent link="world"/><child link="base_link"/>
+
+
+
+  </joint>
+
+
+
+  <link name="base_link">
+
+
+
+    <visual>
+
+
+
+      <geometry>
+
+
+
+        <mesh filename="/home/jos/ros2_ws/src/roarm_description/meshes/wrist_roll_follower_so101_v1.stl/base_so101_v2.stl" scale="10.0 10.0 10.0"/>
+
+
+
+      </geometry>
+
+
+
+      <material name="yellow"/>
+
+
+
+    </visual>
+
+
+
+    <collision>
+
+
+
+      <geometry>
+
+
+
+        <mesh filename="/home/jos/ros2_ws/src/roarm_description/meshes/wrist_roll_follower_so101_v1.stl/base_so101_v2.stl" scale="10.0 10.0 10.0"/>
+
+
+
+      </geometry>
+
+
+
+    </collision>
+
+
+
+    <inertial>
+
+
+
+      <origin xyz="0 0 0.05" rpy="0 0 0"/>
+
+
+
+      <mass value="1.0"/>
+
+
+
+      <inertia ixx="0.01" ixy="0.0" ixz="0.0" iyy="0.01" iyz="0.0" izz="0.01"/>
+
+
+
+    </inertial>
+
+
+
+  </link>
+
+
+
+</robot>
